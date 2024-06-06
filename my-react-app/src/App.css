@@ -1,0 +1,30 @@
+* {
+  font-family: sans-serif;
+  color: whitesmoke;
+}
+body {
+  background-color: #23c9f4;
+}
+.helloWorld {
+  background-color: #215767;
+}
+
+.container,
+hr {
+  color: #20859f;
+  background-color: #20859f;
+}
+
+.objective {
+  background-color: #2b515c;
+}
+
+.scrollContainer::-webkit-scrollbar {
+  background-color: black;
+  height: 5px;
+  border-radius: 10px;
+}
+.scrollContainer::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #feda70;
+}
